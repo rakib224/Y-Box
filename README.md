@@ -17,6 +17,7 @@ This is an advanced tool with several functionalities for network and system ope
 
 
 TERMUX INSTALLATION 
+
 ★ pip install pytube phonenumbers requests
 
 
