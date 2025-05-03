@@ -15,6 +15,13 @@ This is an advanced tool with several functionalities for network and system ope
 11. Base64 Encode/Decode
 12. Fake Identity Generator
 
+
+TERMUX INSTALLATION 
+★ pip install pytube phonenumbers requests
+
+
+
+
 The tool allows users to:
 - Check IP address info.
 - Look up phone number details.
